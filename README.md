@@ -13,3 +13,4 @@ Designed and developed a modern coffee brand e-commerce experience focused on cl
 - Product-focused experience
 
 🌐 Live Website: https://kaffa-co.myshopify.com 
+Password-Test123
